@@ -1,0 +1,35 @@
+animations {
+    // off
+
+    slowdown 1.4
+
+    window-open {
+        curve "cubic-bezier" 0.42 0.0 1.0 1.0
+        duration-ms 40
+    }
+    window-close {
+        duration-ms 40
+        curve "cubic-bezier" 0.0 0.0 0.58 1.0
+    }
+    window-movement {
+        duration-ms 140
+        curve "cubic-bezier" 0.1 0.6 0.83 0.6
+    }
+    window-resize {
+        duration-ms 140
+        curve "cubic-bezier" 0.25 0.1 0.25 1.0
+    }
+    workspace-switch {
+        duration-ms 140
+        curve "cubic-bezier" 0.42 0.0 0.58 1.0
+    }
+    horizontal-view-movement {
+        duration-ms 200
+        curve "cubic-bezier" 0.42 0.0 0.58 1.0
+    }
+    overview-open-close {
+        duration-ms 240
+        curve "cubic-bezier" 0.1 0.6 0.83 0.6
+    }
+}
+

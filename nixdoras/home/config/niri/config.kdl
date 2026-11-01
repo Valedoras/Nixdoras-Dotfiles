@@ -1,0 +1,6 @@
+include "animations.kdl"
+include "keybinds.kdl"
+include "settings.kdl"
+include "startups.kdl"
+include "windows.kdl"
+include "noctalia.kdl"

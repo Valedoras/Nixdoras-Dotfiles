@@ -1,0 +1,70 @@
+{
+  "dark": {
+    "mPrimary": "#FCFBCD",
+    "mOnPrimary": "#010101",
+    "mSecondary": "#FCFBCD",
+    "mOnSecondary": "#010101",
+    "mTertiary": "#FCFBCD",
+    "mOnTertiary": "#010101",
+    "mError": "#FCFBCD",
+    "mOnError": "#010101",
+    "mSurface": "#010101",
+    "mOnSurface": "#FCFBCD",
+    "mSurfaceVariant": "#010101",
+    "mOnSurfaceVariant": "#FCFBCD",
+    "mOutline": "#FCFBCD",
+    "mShadow": "#010101",
+    "mHover": "#FCFBCD",
+    "mOnHover": "#010101",
+    "terminal": {
+      "background": "#010101",
+      "foreground": "#FCFBCD",
+      "cursor": "#FCFBCD",
+      "cursorText": "#010101",
+      "selectionBg": "#FCFBCD",
+      "selectionFg": "#010101",
+      "normal": {
+        "black": "#010101", "red": "#FCFBCD", "green": "#FCFBCD", "yellow": "#FCFBCD",
+        "blue": "#FCFBCD", "magenta": "#FCFBCD", "cyan": "#FCFBCD", "white": "#FCFBCD"
+      },
+      "bright": {
+        "black": "#FCFBCD", "red": "#FCFBCD", "green": "#FCFBCD", "yellow": "#FCFBCD",
+        "blue": "#FCFBCD", "magenta": "#FCFBCD", "cyan": "#FCFBCD", "white": "#FCFBCD"
+      }
+    }
+  },
+  "light": {
+    "mPrimary": "#010101",
+    "mOnPrimary": "#FCFBCD",
+    "mSecondary": "#010101",
+    "mOnSecondary": "#FCFBCD",
+    "mTertiary": "#010101",
+    "mOnTertiary": "#FCFBCD",
+    "mError": "#010101",
+    "mOnError": "#FCFBCD",
+    "mSurface": "#FCFBCD",
+    "mOnSurface": "#010101",
+    "mSurfaceVariant": "#FCFBCD",
+    "mOnSurfaceVariant": "#010101",
+    "mOutline": "#010101",
+    "mShadow": "#010101",
+    "mHover": "#010101",
+    "mOnHover": "#FCFBCD",
+    "terminal": {
+      "background": "#FCFBCD",
+      "foreground": "#010101",
+      "cursor": "#010101",
+      "cursorText": "#FCFBCD",
+      "selectionBg": "#010101",
+      "selectionFg": "#FCFBCD",
+      "normal": {
+        "black": "#010101", "red": "#010101", "green": "#010101", "yellow": "#010101",
+        "blue": "#010101", "magenta": "#010101", "cyan": "#010101", "white": "#FCFBCD"
+      },
+      "bright": {
+        "black": "#010101", "red": "#010101", "green": "#010101", "yellow": "#010101",
+        "blue": "#010101", "magenta": "#010101", "cyan": "#010101", "white": "#FCFBCD"
+      }
+    }
+  }
+}

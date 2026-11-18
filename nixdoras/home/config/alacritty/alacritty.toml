@@ -1,0 +1,16 @@
+[general]
+import = ["~/.config/alacritty/themes/noctalia.toml"]
+
+[terminal.shell]
+program = "fish"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "GoMono Nerd Font"
+style = "Regular"
+
+[window]
+padding.x = 9
+padding.y = 9
